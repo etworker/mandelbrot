@@ -27,4 +27,4 @@ python3 mandelbrot.py
 
 - Swimming Turtle
 
-![z=z^6+z^5+z^3+z^2+x](mandelbrot_1-0-1-1-0-1-1-0_100.jpg)
+![z=z^6+z^5+z^3+z^2+x](pic/mandelbrot_1-0-1-1-0-1-1-0_100.jpg)
