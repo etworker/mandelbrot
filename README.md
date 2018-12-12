@@ -1,0 +1,2 @@
+# mandelbrot
+draw mandelbrot image
